@@ -3,10 +3,10 @@ Some Important Java, JVM and OS based Interview Question.
 <br> 
 ## Java foundation<br> 
 #### 1.0 What are the basic data types in JAVA and how many bytes each is occupied.
-1.1 Can a String class be inherited, and why.
-1.2 The difference between String, Stringbuffer, and StringBuilder.
-1.3 What is the difference between ArrayList and LinkedList.
-1.4 talk about the instantiation order of classes, such as parent class static data, constructors, fields, subclass static data, constructors, fields, when new, their order of execution.
+#### 1.1 Can a String class be inherited, and why.
+#### 1.2 The difference between String, Stringbuffer, and StringBuilder.
+#### 1.3 What is the difference between ArrayList and LinkedList.
+#### 1.4 talk about the instantiation order of classes, such as parent class static data, constructors, fields, subclass static data, constructors, fields, when new, their order of execution.
 1.5 What Maps have been used, what is the difference, HashMap is thread-safe, and what is the Map used, what are their internal principles, such as storage, hashcode, capacity expansion, default capacity, etc.
 1.6 Why does JAVA8's ConcurrentHashMap give up segmentation locks, what's the problem, if you come to design, how do you design.
 1.7 Is there a sequence of Map implementation classes, and if so, how are they guaranteed to be ordered?
