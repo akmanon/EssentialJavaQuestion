@@ -34,7 +34,7 @@ Some Important Java, JVM and OS based Interview Question.
 #### 3.9 How does the internal work of HashSet in Java work?
 #### 4.0 What is serialization, how to serialize, why serialization, deserialization will encounter problems, how to solve.
 #### 4.1 New features of java8.
-##JVM
+## JVM
 #### 4.2 Under what circumstances a stack memory overflow will occur.
 #### 4.3 JVM memory structure, Eden and Survivor ratio.
 #### 4.4 Why should JVM memory be divided into new generation, old age, and durable generation. Why are the Eden and Survivor divided into the new generation?
@@ -48,7 +48,7 @@ Some Important Java, JVM and OS based Interview Question.
 #### 5.2 What are the JVM parameters for your online application?
 #### 5.3 Difference between g1 and cms, throughput priority and response priority garbage collector selection.
 #### 5.4 How to play the thread stack information.
-##Operating System
+## Operating System
 #### 5.5 Which kernel parameters have you paid attention to under Linux system, let me know what you know.
 #### 5.6 There are several IO models under Linux, what are their respective meanings.
 #### 5.7 What is the difference between epoll and poll.
