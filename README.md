@@ -1,8 +1,8 @@
 # EssentialJavaQuestion
 Some Important Java and JVM based Interview Question 
-
+\n
 ##Java foundation
-1.0 What are the basic data types in JAVA and how many bytes each is occupied.
+1.0 What are the basic data types in JAVA and how many bytes each is occupied.\n
 1.1 Can a String class be inherited, and why.
 1.2 The difference between String, Stringbuffer, and StringBuilder.
 1.3 What is the difference between ArrayList and LinkedList.
